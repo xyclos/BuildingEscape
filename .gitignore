@@ -3,3 +3,5 @@ Saved/*
 Binaries/*
 DerivedDataCache/*
 *.VC.db
+**/xcuserdata
+contents.xcworkspacedata
